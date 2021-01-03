@@ -1,6 +1,6 @@
 from setuptools import find_packages, setup
 setup(
-    name='Wrench',
+    name='Wrencher',
     packages=find_packages(include=['Wrench']),
     version='0.1.5',
     description='Cool lib',
