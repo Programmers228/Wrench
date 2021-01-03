@@ -2,7 +2,7 @@ from setuptools import find_packages, setup
 setup(
     name='Wrencher',
     packages=find_packages(include=['Wrench']),
-    version='0.1.5',
+    version='0.1.7',
     description='Cool lib',
     author='Rostcraft',
     license='MIT',
